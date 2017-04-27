@@ -1,0 +1,36 @@
+{
+  "name": "react-native-retriable-fetch",
+  "version": "1.0.0",
+  "description": "Quick and dirty wrapper around fetch API to allow retries",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tiaanduplessis/react-native-retriable-fetch.git"
+  },
+  "homepage": "https://github.com/tiaanduplessis/react-native-retriable-fetch",
+  "bugs": "https://github.com/tiaanduplessis/react-native-retriable-fetch/issues",
+  "author": {
+    "name": "Tiaan",
+    "email": "tiaanduplessis@hotmail.com",
+    "url": "tiaan.beer"
+  },
+  "scripts": {
+    "test": "npm run lint",
+    "lint": "standard --verbose",
+    "lint:fix": "standard --fix --verbose",
+    "precommit": "npm test"
+  },
+  "keywords": [
+    "react-native",
+    "fetch",
+    "retry",
+    "retries",
+    "react-native-retriable-fetch"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "husky": "^0.13.3",
+    "standard": "^10.0.1"
+  }
+}
