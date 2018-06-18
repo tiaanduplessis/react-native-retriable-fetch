@@ -1,6 +1,6 @@
 {
   "name": "react-native-retriable-fetch",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "DEPRECATED: use tenacious-fetch",
   "license": "MIT",
   "main": "index.js",
