@@ -63,6 +63,8 @@
 
 ## Install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/react-native-retriable-fetch.svg)](https://greenkeeper.io/)
+
 ```sh
 $ npm install --save react-native-retriable-fetch
 # OR
