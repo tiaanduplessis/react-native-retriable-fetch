@@ -23,7 +23,7 @@
     "react-native-retriable-fetch"
   ],
   "dependencies": {
-    "tenacious-fetch": "^2.0.0"
+    "tenacious-fetch": "^2.2.0"
   },
   "devDependencies": {
     "standard": "^10.0.1"
