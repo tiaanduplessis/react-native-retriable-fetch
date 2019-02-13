@@ -1089,9 +1089,10 @@ table@^3.7.8:
     slice-ansi "0.0.4"
     string-width "^2.0.0"
 
-tenacious-fetch@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/tenacious-fetch/-/tenacious-fetch-2.0.0.tgz#dc89cdb04626e3473c42e77158da9aa1cc6d2fac"
+tenacious-fetch@^2.2.2:
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/tenacious-fetch/-/tenacious-fetch-2.2.2.tgz#1d2cfdcb2eb270d2b5b47b5f0f04d76e6a203203"
+  integrity sha512-DS3GOokfk5p5I7EeUS/FYGBy5r0MwRjjrwTkhOP/CrW8iUGoO5hsV3V8EQdEraDtGDvevPTPj1weRH4qNmzXsA==
 
 text-table@~0.2.0:
   version "0.2.0"
